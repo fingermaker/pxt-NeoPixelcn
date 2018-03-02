@@ -1,4 +1,4 @@
-﻿{
+{
   "NeoPixelMode.RGB|block": "RGB",
   "NeoPixelMode.RGBW|block": "RGB+W",
   "NeoPixelMode.RGB_RGB|block": "RGB",
@@ -19,7 +19,7 @@
   "neopixel.Strip.show|block": "%strip|显示设定的内容",
   "neopixel.Strip.clear|block": "%strip|消除LED等",
   "neopixel.Strip.length|block": "%strip|LED的个数",
-  "neopixel.Strip.setBrigthness|block": "%strip|的亮度为%brightness",
+  "neopixel.Strip.setBrightness|block": "%strip|的亮度为%brightness",
   "neopixel.Strip.easeBrightness|block": "%strip|按设定的亮度调整",
   "neopixel.Strip.range|block": "%strip|从%start|到%length|个LED",
   "neopixel.Strip.shift|block": "%strip|从%offset|个开始循环显示",
